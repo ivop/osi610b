@@ -1,0 +1,21 @@
+Errors in the original schematic
+================================
+
+Sheet 1, U13 and U14 have all the pin names and numbers mixed up. Sometimes
+D and R are swaped, and the order is wrong.
+
+Sheet 7, U95 is shown as pin 9 input and pin 6 output, but it's actually
+pin 8 that is the output of the buffer at pin 9.
+
+Sheet 7, PIA has the pin numbers for CB1 and CB2 swapped. Shown as CB1 (19),
+and CB2(18), but in reality it's CB1(18) and CB2(19).
+
+R9 on the PCB only has its wiper connected, and pin 3 is not connected. In the
+schematic it is. As it's functionally identical, and all the other pots have
+both pins connected, the version presented here has this fixed.
+
+Sheet 8, U67 has pins 12 and 13 misnumbered. The PCB has 13 on top, and 14
+at the bottom.
+
+The last page of the schematics PCB shows the component placement. R43 and
+R44 are swapped, and the order of R35-R41 is all wrong.
