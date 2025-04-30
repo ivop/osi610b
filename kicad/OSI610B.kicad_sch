@@ -597,6 +597,9 @@
     (path "/92ad767e-256b-4dcd-ba4a-d8d56632590a/697daa10-d01d-4f16-9a72-6c68692993f8"
       (reference "J103") (unit 1) (value "Conn_01x08_Male") (footprint "Connector_PinHeader_2.54mm:PinHeader_1x08_P2.54mm_Vertical")
     )
+    (path "/3f042515-46da-499c-9779-6befbba9b84e/ab721b97-81d6-4917-bb31-21bae13165d7"
+      (reference "J201") (unit 1) (value "Power Supply") (footprint "Connector_Molex:Molex_KK-396_A-41791-0002_1x02_P3.96mm_Vertical")
+    )
     (path "/9140145f-0491-40ed-a12b-3ec6fab2fcd5/93f55004-d58c-4b01-99bf-22baea11e609"
       (reference "JP1") (unit 1) (value "JUMPER_BRIDGED_12") (footprint "OSI610B:Closed PinHeader_1x02_P2.54mm_Vertical")
     )
