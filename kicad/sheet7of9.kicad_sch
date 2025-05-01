@@ -2752,6 +2752,15 @@
     (uuid ebf2b0d0-ee59-416b-8374-89c863312643)
   )
 
+  (label "DS1" (at 116.84 48.26 0)
+    (effects (font (size 1.27 1.27)) (justify left bottom))
+    (uuid 219edb28-73bc-4a1a-b7d1-24d6c7cd137f)
+  )
+  (label "DS2" (at 116.84 27.94 0)
+    (effects (font (size 1.27 1.27)) (justify left bottom))
+    (uuid 432ad322-9eae-4b8e-9e7c-913642aa1ead)
+  )
+
   (global_label "DRIVE 1 READY NOT" (shape input) (at 147.32 208.28 0) (fields_autoplaced)
     (effects (font (size 1.27 1.27)) (justify left))
     (uuid 048670c3-f112-42d5-a7e4-88538e00e7e1)

@@ -574,7 +574,10 @@
       (reference "H5") (unit 1) (value "MountingHole") (footprint "MountingHole:MountingHole_4.3mm_M4_ISO14580")
     )
     (path "/3f042515-46da-499c-9779-6befbba9b84e/dcf891d7-9bf2-4b5d-b58a-04031aaf1561"
-      (reference "H6") (unit 1) (value "MountingHole") (footprint "MountingHole:MountingHole_4.3mm_M4_ISO14580")
+      (reference "H6") (unit 1) (value "MountingHole") (footprint "MountingHole:MountingHole_2.7mm_M2.5_ISO14580")
+    )
+    (path "/3f042515-46da-499c-9779-6befbba9b84e/f144bcc3-e036-4d9f-a4f9-e78e4375c62a"
+      (reference "H7") (unit 1) (value "MountingHole") (footprint "MountingHole:MountingHole_2.7mm_M2.5_ISO14580")
     )
     (path "/d0e0041b-6202-4e53-9937-5420e2c99209/3781c8ca-d661-4316-9bff-c5e2b029a008"
       (reference "J1") (unit 1) (value "Conn_01x40_Male") (footprint "Package_DIP:DIP-40_W15.24mm_Socket_LongPads")
