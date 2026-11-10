@@ -1,3 +1,11 @@
 # Ohio Scientific 610B Remake
 
 ![](doc/osi610b-3d-render.jpg)
+
+### Remake of the Ohio Scientific 610B PCB
+
+* The new [schematics](doc/osi610b-schematic.pdf) are based on the original schematics, but with all [errors](doc/errors.txt) fixed.
+* The PCB is mostly identical to the original, but with added silkscreen, and jumpers instead of trace cuts.
+* Drive type selection is kept original and does not have a solder mask to facilitate original adjustments.
+* In theory, you can build it solely with the [BOM](doc/osi600d-bom.pdf) and the new silkscreen, but the original Assembly Instructions still apply 100%.
+* Use [ramtest2114](https://github.com/ivop/ramtest2114) to test RAM chips acquired from Ali.
