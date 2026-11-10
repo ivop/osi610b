@@ -1389,14 +1389,9 @@
     (uuid fc23b8e1-800f-4f5c-83c3-83f5281abd4c)
   )
 
-  (text "* Close 1 jumper only\n  Default is 3-4 125 kHz" (at 64.77 168.91 0)
+  (text "* Close 1 jumper only\n  Default is 5-6 125 kHz" (at 64.77 168.91 0)
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 2338eecb-f665-4ed8-9c5f-51e19574c93c)
-  )
-  (text "* There's enough space\n  on the PCB to implement\n  this as a 4x2 jumper block."
-    (at 64.77 176.53 0)
-    (effects (font (size 1.27 1.27)) (justify left bottom))
-    (uuid 3e4a35e5-956d-4f1b-898a-42064f9ef1d2)
   )
   (text "1 sec" (at 148.59 156.21 0)
     (effects (font (size 1.27 1.27)) (justify left bottom))
